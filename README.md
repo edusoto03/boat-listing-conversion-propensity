@@ -64,3 +64,7 @@ The SQL layer aggregates engagement into 7-day metrics and produces a listing-le
 ***Repository Structure***
 /notebooks -> End-to-end modeling workflow
 /sql -> Warehouse-style dataset extraction
+
+***Documentation***
+An internal-facing executive summary can be found in:
+/docs/Boat Listing Prpensity Model(Internal Summary).pdf
